@@ -45,6 +45,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "3b9ba784cd99d3069b718125ebc280a4e0013b111d539ae2614a0dcfde78da50"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c2a18db093fa042ecd2403d65442f1ce387eb7b95c00842cab532a380340ac08"
 metafile = true
 
 [[files]]
