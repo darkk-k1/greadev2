@@ -1,0 +1,13 @@
+name = "Simple Backups"
+filename = "SimpleBackups-1.21-4.0.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/knGLaWzP/SimpleBackups-1.21-4.0.24.jar"
+hash-format = "sha512"
+hash = "53133d141a5697d69c1f7b00ba9aeb59784d31c229315344b08e628c12bbd278d070be3c2c0463acfc5272e48674b55dfd481d28f10384c2bdb4fc9fe49aaff9"
+
+[update]
+[update.modrinth]
+mod-id = "fzSKSXVK"
+version = "knGLaWzP"

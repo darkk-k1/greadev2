@@ -13,6 +13,11 @@ file = "config/adlods-common.toml"
 hash = "fead17141d0e55fa3999651b52e774f78ebef164d19ac0c7096cb77cc077c2a3"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
+metafile = true
+
+[[files]]
 file = "mods/advanced-finders.pw.toml"
 hash = "8f411d3c8a097c77857e688b231d3a77b30d236f53de98320b6382cafd5fb3b1"
 metafile = true
@@ -63,6 +68,11 @@ hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "1bac9bdc6c698fd762484109a9547de1e2cfcc16cf65bf5943d965cb8cd96fe2"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -90,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "3fc555007a04f60d96048d4e2560265e4103529b78290f789e8e40938e0b2aca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -213,6 +228,11 @@ hash = "232047cbbfb70ee4bb800492ba0fd4ad369b3ab4d76d179d48e6d9b0bb82b0e8"
 metafile = true
 
 [[files]]
+file = "mods/create-winery.pw.toml"
+hash = "b8ef44c4515d8e70af8500a905ec1e5868f21223688d60d2ce463cb206f8693d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -228,8 +248,18 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "823f7e038ff7a8a4f84a9b43c5955ba3cbd7e14e4f4b0681e28703919b6b05ca"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "16bc3e487696dfd1498036ecee063c3271a111b56787126b93617b2dbbf0d443"
 metafile = true
 
 [[files]]
@@ -318,13 +348,28 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "dece537517d18acee6cb2d7078200f0476b5d7e2424676d1b290994fd40b2b48"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "226605d48bb15bbbc23a97745403437138a4aeaab0f98c118acd65d752b9af04"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "c4ef793b2e79f986e0e73746d608ceab361189d704b8b5a7e8c8da3bbd666ed6"
 metafile = true
 
 [[files]]
@@ -335,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "ba6cf26620c7308faf9228fd9211bee76533a682c760039c47159f6a799856a7"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c9a79c8e684a727cfb60a1644a0306a3401375bdac808f4c9ba3f8321a9ff678"
 metafile = true
 
 [[files]]
@@ -398,13 +448,38 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "3165000789e965102d58efe87dd0af170eba28462c3ecb53c1192592c92139a7"
+metafile = true
+
+[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "5c40b97cbeb3afcb2d0e9831f0e5d6e8503fd92f05193f25d84718f3b06f0f57"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "c8a7665169e65a7be02a5cfde84bc77a6e963a79e002fd38e85cc221ae5aed08"
+metafile = true
+
+[[files]]
 file = "mods/seed-delight.pw.toml"
 hash = "920221401fac7abc0c2d76c8970ff036964eafec746808d22018106c037d815b"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "51c7fbbf6e1d09a29ad010ae0a9f11e966030b013e6d543965e74b7f5f78b339"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "1a245307296530077bc288afb3c076d672dd0b677ff79bd31ce2860d33736ce1"
 metafile = true
 
 [[files]]
@@ -443,6 +518,11 @@ hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "486745b778454a5058f7b7a8b3a07f998ee5d7f9278009425d0ed501f403c542"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "84a52ce6e4caafe5fb34246ff180f5c787a74faf0ff8f77e76d3e3258b96291c"
 metafile = true
@@ -455,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
 
 [[files]]
