@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "4791e217ae5994300e33fdc8ca461c252461d630ae31c5d30d3f685741eb9eda"
+
+[[files]]
 file = "config/adfinders-common.toml"
 hash = "f6d7287c4adb83ceed30971a4a14fb2ac8fde0d93c418f85b4e5a094ea553487"
+
+[[files]]
+file = "config/adlods-common.toml"
+hash = "fead17141d0e55fa3999651b52e774f78ebef164d19ac0c7096cb77cc077c2a3"
 
 [[files]]
 file = "mods/advanced-finders.pw.toml"
@@ -478,6 +486,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6d531ca789931cf437a72fef1a868a51d8afe4db12565a525e71c154304f4e29"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "07e98794ddaf5807970e99d891829c64f20c73d750f865ec9e0c15b0e1e69699"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
