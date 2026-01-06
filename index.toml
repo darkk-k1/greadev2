@@ -13,6 +13,10 @@ file = "config/adlods-common.toml"
 hash = "fead17141d0e55fa3999651b52e774f78ebef164d19ac0c7096cb77cc077c2a3"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "65813b0acc87e79f5d85310b1a72e7e15a78c6cb993ff78703aab4e5fe3f0738"
+
+[[files]]
 file = "config/serverpause-common.toml"
 hash = "c8354c32025452988360829fd51edd1afe56ef74cec5d5590bd110d42ec499ae"
 
