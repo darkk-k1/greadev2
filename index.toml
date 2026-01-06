@@ -318,6 +318,11 @@ hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "3fd3c85f4ac889ee87857be7c64e883efe6cb06de73ab7babf07521977912353"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5f1dc2d965a2764f1d9fa02d34932898593de140a4243d83f2e43f4663f2ed7e"
 metafile = true
@@ -420,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause-forge.pw.toml"
+hash = "261cc0148570b22adbb07b9b1e0abaf15548d02127553b56c07bae2de62545d4"
 metafile = true
 
 [[files]]
