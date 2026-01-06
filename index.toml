@@ -17,6 +17,14 @@ file = "config/ftbessentials.snbt"
 hash = "65813b0acc87e79f5d85310b1a72e7e15a78c6cb993ff78703aab4e5fe3f0738"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "f63f94b985285add146c73a8747d278cec3d386807855b25de0e1db9962c153f"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "8b9fc6bb4a561cb9beaafaef086c82c2948443b3b3308cd9fc7a87a85afc0c19"
+
+[[files]]
 file = "config/serverpause-common.toml"
 hash = "c8354c32025452988360829fd51edd1afe56ef74cec5d5590bd110d42ec499ae"
 
