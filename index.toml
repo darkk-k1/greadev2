@@ -74,6 +74,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "843c4a21311adf5382c4eb3af97359cd705a0546b89466f1e09434358d88407a"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "d7e6f009549d3862ec0f285aa81be1d0544fe618adc3011454bcbd2626d6a98f"
 metafile = true
 
 [[files]]
@@ -461,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "c2673f45c3791694d94cf5b6f6041ee463114a45f2761ce3b47a0c200b27b324"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
 
 [[files]]
