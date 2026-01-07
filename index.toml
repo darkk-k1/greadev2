@@ -404,13 +404,38 @@ hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
 metafile = true
 
 [[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "2649d9273df4a10cceeec5ca5d051a929df04f13d46d5418e8c2f226628219bb"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "226605d48bb15bbbc23a97745403437138a4aeaab0f98c118acd65d752b9af04"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "0b6a884fe3969a05a24aec1569d1ffcb2ec8fb8b268f749416a9c0677e3cac46"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "ead018f3794f086abf4acb238c2f99abf465fc27f002483083ba5809e02afa54"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
+metafile = true
+
+[[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "c4ef793b2e79f986e0e73746d608ceab361189d704b8b5a7e8c8da3bbd666ed6"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
 metafile = true
 
 [[files]]
