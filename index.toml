@@ -10,7 +10,7 @@ hash = "f6d7287c4adb83ceed30971a4a14fb2ac8fde0d93c418f85b4e5a094ea553487"
 
 [[files]]
 file = "config/adlods-common.toml"
-hash = "fead17141d0e55fa3999651b52e774f78ebef164d19ac0c7096cb77cc077c2a3"
+hash = "fbb5ce37989395bd0c178e8b04168563d4613413d28a694ebc9f3fa15f133d57"
 
 [[files]]
 file = "config/ftbessentials.snbt"
