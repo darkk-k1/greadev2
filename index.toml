@@ -39,6 +39,11 @@ hash = "8f411d3c8a097c77857e688b231d3a77b30d236f53de98320b6382cafd5fb3b1"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
