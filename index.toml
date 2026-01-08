@@ -349,6 +349,11 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "6486106a7390a654715e158a5c59d804b69bf40a28736deb9a4f7742b811da06"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "823f7e038ff7a8a4f84a9b43c5955ba3cbd7e14e4f4b0681e28703919b6b05ca"
 metafile = true
@@ -611,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/probejs.pw.toml"
 hash = "98bbba48eddf402b09107de563d7b4370d1ae70a1a6210054cd13065072a9d97"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
