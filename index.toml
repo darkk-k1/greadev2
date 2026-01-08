@@ -29,12 +29,28 @@ file = "config/serverpause-common.toml"
 hash = "c8354c32025452988360829fd51edd1afe56ef74cec5d5590bd110d42ec499ae"
 
 [[files]]
+file = "config/theoneprobe-client.toml"
+hash = "623e3f75c0da2875e0c3868b79b5482d48cf3ddfbf3771d882ae6a5acb2ef909"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "836d19a0b9af0f6ded9f431a5e27dae30e3bdc155b18c1b8e82a03208f8adb16"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "f47c419ee3372e99593a1faf771e0f8eb6a422b0fd81c8634c89efd8c15b277a"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -49,12 +65,24 @@ file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "156c284717ce0e0601442b11c26a23bb10d7a990f3cf60f34065953ed1e6f65d"
+
+[[files]]
 file = "kubejs/config/web_server.json"
 hash = "023f9a633d28f3244fc26e2aef45a23bdd07886792a52b085e48524d9bfc3296"
 
 [[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+hash = "c140ee4ba5660a2304033e50eac1d54c5b523bbd4ea39f7b3c50ad84cac970d6"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
