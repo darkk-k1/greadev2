@@ -13,6 +13,10 @@ file = "config/adlods-common.toml"
 hash = "fbb5ce37989395bd0c178e8b04168563d4613413d28a694ebc9f3fa15f133d57"
 
 [[files]]
+file = "config/createappliedkinetics-common.toml"
+hash = "12ee20005bb46399a7b7e8246869d9556c9e1f0039e72f79f4b8064b2e252605"
+
+[[files]]
 file = "config/ftbessentials.snbt"
 hash = "65813b0acc87e79f5d85310b1a72e7e15a78c6cb993ff78703aab4e5fe3f0738"
 
