@@ -248,11 +248,6 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "4520f1b7da2cad5e8c8cf0babfd524b322dc2e8fe1b2d7e7b93c365d1779ea14"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
 metafile = true
