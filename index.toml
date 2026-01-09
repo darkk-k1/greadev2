@@ -458,6 +458,11 @@ hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "1868276bbd47cc2f4634dcabf58a022f4f51853257a93dd91f260a38e0e32aa2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "542d0920a15dc3e0a1ea027457f0c6854d897613efe60b4d581a54f7c26344e2"
 metafile = true
