@@ -19,3 +19,8 @@ ServerEvents.recipes(event => {
 
     console.log('Recipes Loaded');
 })
+
+
+ServerEvents.tags('item', event => {
+  event.remove('c:tools/wrench', 'immersiveengineering:hammer')
+})
