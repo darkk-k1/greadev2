@@ -583,6 +583,11 @@ hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "f11712ad21bd0d5b8ff2f4867332c5f773b43b9c53f1d02fa604af6f421010de"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "d8e50f6f8d06a69381f1435d7d4bbf218e7896d8325bcf2bcd62f295714a0591"
 metafile = true
